@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="custom_model_record" model="custom.model">
+        <field name="name">My custom model record</field>
+    </record>
+
+</odoo>
